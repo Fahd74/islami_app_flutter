@@ -1,0 +1,18 @@
+{
+  "app_title": "أسلامي",
+  "quran_icon": "قرآن",
+  "hadeth_icon": "حديث",
+  "sebha_icon": "تسبيح",
+  "radio_icon": "راديو",
+  "sur_title": "أسم السورة",
+  "hadeth_title": "الأحاديث",
+  "setting_icon": "الأعدادات",
+  "language": "اللغة",
+  "english": "الأنجليزية",
+  "arabic": "العربية",
+  "theme": "السمة",
+  "light": "فاتح",
+  "dark": "داكن",
+  "tasbeh": "عدد التسبيحات",
+  "quran_radio": "إذاعة القرآن الكريم"
+}
